@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Simonds",
+    "title": "Meet Visa, Mayfield, DuploCloud and more at Disrupt",
+    "description": "Announcing the first tranche of pivotal partners waiting to educate and elevate startups at TechCrunch Disrupt 2023.",
+    "url": "https://techcrunch.com/2023/04/30/first-announcement-partners-techcrunch-disrupt-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/TC-Disrupt-23-Event-Card-Event-Listings-Page-466x269-1-1.png?w=466",
+    "publishedAt": "2023-04-30T21:58:23Z",
+    "content": "TechCrunch Disrupt 2023 takes place on September 1921 in San Francisco and if you dont already know its the startup worlds big tent. It draws founders, investors, CEOs, tech professionals, scientists… [+2724 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Spend management space sees a large raise, and layoffs, in the same week",
+    "description": "Spend management stays hot, and crowded. And are layoffs at fintech-focused VC firm Anthemis 'a sign of what's to come'?",
+    "url": "https://techcrunch.com/2023/04/30/spend-management-space-sees-a-large-raise-and-layoffs-in-the-same-week/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1219354287.jpg?resize=1200,800",
+    "publishedAt": "2023-04-29T15:48:40Z",
+    "content": "Welcome to The Interchange! If you received this in your inbox, thank you for signing up and your vote of confidence. If youre reading this as a post on our site, sign up here so you can receive it d… [+16302 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "The cultivated meat industry’s known struggles will take time to sort out, and maybe that’s OK",
+    "description": "The production and pricing challenges presented in a recent Wall Street Journal article on cultivated meat are not new.",
+    "url": "https://techcrunch.com/2023/04/30/cultivated-meat-struggles-foodtech/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1230258332.jpg?w=1024",
+    "publishedAt": "2023-04-29T00:22:15Z",
+    "content": "The Wall Street Journal went under the hood of the lab-grown meat industry, also known as cultivated or cell-cultured meat, and the struggles within.\r\nThe Journal particularly homed in on whats going… [+1574 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ram Iyer",
+    "title": "‘Buy American’ shouldn’t block our progress toward ‘Internet for All’",
+    "description": "The Biden administration should guard against the unintended consequences of the “Buy American” ideal and keep its eye on the prize.",
+    "url": "https://techcrunch.com/2023/04/30/buy-american-shouldnt-block-our-progress-toward-internet-for-all/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1087705674.jpg?resize=1200,800",
+    "publishedAt": "2023-04-29T00:09:58Z",
+    "content": "The finish line is within sight. Internet for All, as the Biden administration put it, will soon be a reality if America keeps its priorities straight.\r\nDuring his State of the Union address, Preside… [+4594 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "This Week in Apps: Users pan Snapchat's AI, Bluesky has a moment, Apple wins antitrust appeal",
+    "description": "This Week in Apps offers a way to keep up with the world of apps, including news, updates, startup fundings, mergers and acquisitions, and much more.",
+    "url": "https://techcrunch.com/2023/04/29/this-week-in-apps-users-pan-snapchats-ai-bluesky-has-a-moment-apple-wins-antitrust-appeal/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/this-week-in-apps-splash-2023.webp?resize=1200,637",
+    "publishedAt": "2023-04-28T22:01:56Z",
+    "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nThe app economy in 2023 hit a few snags, as… [+26292 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Elon exposes his burner, Tile embraces the cat life, and Elizabeth Holmes avoids prison",
+    "description": "In this edition of Week in Review, we cover Elon Musk exposing his burner profile, Tile introducing a new product for cats, and more.",
+    "url": "https://techcrunch.com/2023/04/29/elon-exposes-his-burner-tile-embraces-the-cat-life-and-elizabeth-holmes-avoids-prison/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/elon-owns-twitter.jpg?resize=1200,675",
+    "publishedAt": "2023-04-28T22:01:48Z",
+    "content": "Hey, TechCrunch people. If you’re looking for a recap of the week’s news in tech, you’ve come to the right place. It’s Week in Review (WiR), TechCrunch’s regular recap column. Glad to have you.\r\nBefo… [+5733 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "The week in AI: ChatBots multiply and Musk wants to make a 'maximum truth-seeking' one",
+    "description": "This week in AI: Elon Musk plans to create a 'truth-seeking AI,' Microsoft Designer hits public preview, and about a dozen new chatbots.",
+    "url": "https://techcrunch.com/2023/04/29/the-week-in-ai-chatbots-multiply-and-musk-wants-to-make-a-maximum-truth-seeking-one/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1451031353.jpg?resize=1200,797",
+    "publishedAt": "2023-04-28T21:39:05Z",
+    "content": "Keeping up with an industry as fast-moving as AI is a tall order. So until an AI can do it for you, heres a handy roundup of the last weeks stories in the world of machine learning, along with notabl… [+10054 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas",
+    "title": "Pitch for the check you want",
+    "description": "Welcome to Startups Weekly, a nuanced take on this week’s startup news and trends by Senior Reporter and Equity co-host Natasha Mascarenhas. To get this in your inbox, subscribe here. Tech’s guiding principles these days aren’t too difficult to find: discipli…",
+    "url": "https://techcrunch.com/2023/04/29/pitch-for-the-check-you-want/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-129355018.jpg?resize=1200,771",
+    "publishedAt": "2023-04-28T19:11:14Z",
+    "content": "Welcome to Startups Weekly, a nuanced take on this weeks startup news and trends by Senior Reporter and Equity co-host Natasha Mascarenhas. To get this in your inbox, subscribe here.\r\nTechs guiding p… [+5710 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "Warm intros are awful for diversity, so why do investors keep insisting on them?",
+    "description": "There are many advantages to having a diverse workforce, but you can't simply take your homogenous workforce, add diversity, stir and hope for the best.",
+    "url": "https://techcrunch.com/2023/04/30/warm-intros-suck-for-vc/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1477205472.jpg?resize=1200,800",
+    "publishedAt": "2023-04-28T18:38:02Z",
+    "content": "There are oodles of advantages to having a diverse workforce, but, as inBeta founder James Nash points out, you can’t simply take your homogenous workforce, add diversity, stir and hope for the best.… [+1673 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Anna Heim",
+    "title": "A pot of gold at the intersection of DevOps and generative AI?",
+    "description": "Generative AI isn't just about creative endeavors and parlor tricks. Investors and Big Tech alike are betting that it will also affect enterprise infrastructure and cybersecurity.",
+    "url": "https://techcrunch.com/2023/04/29/devops-generative-ai/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192287243.jpg?w=1100",
+    "publishedAt": "2023-04-27T22:10:08Z",
+    "content": "Welcome to the TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+1291 chars]"
+    }
+    ]
+    }
