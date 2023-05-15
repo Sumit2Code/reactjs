@@ -1,12 +1,12 @@
 pipeline{
     agent any
     tools {
-        nodejs '18.12.1'
+        nodejs '19.7.0'
     }
     stages{
         stage('build'){
             steps{
-echo 'sad'
+            echo 'sad'
             }
         }
     }
