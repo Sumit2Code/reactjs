@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage('build'){
             steps{
-                echo "Helo sumit welcome to Nodejs"
+                sh "npm run build"
             }
         }
     }
